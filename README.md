@@ -15,27 +15,11 @@ Blinkit operates at a large scale, handling high volumes of data on orders, inve
 2. Support real-time updates, dynamic filtering, and interactive exploration.
 3. Provide actionable insights for operational efficiency and customer experience improvements.
 
-**Target Audience**:
-- Business stakeholders for high-level summaries.
-- Operations managers for granular optimization.
-- Data analysts/engineers for advanced insights.
-
 **Key Features**:
 - Intuitive charts (bar, line, pie, donut, gauge, etc.).
 - Drill-down capabilities.
 - Filters by time, regions, or categories.
 - Export options for reports.
-
-**Expected Outcomes**:
-- User-friendly dashboard for data-driven decisions.
-- Enhanced efficiency via data visibility.
-- Adaptable template for similar businesses.
-
-**Why This Project?**
-- Learn advanced Power BI visualization.
-- Integrate real-world datasets.
-- Solve business challenges with analytics.
-
 
 ## Interact with the dashboard:
 
