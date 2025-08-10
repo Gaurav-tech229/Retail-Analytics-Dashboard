@@ -62,27 +62,27 @@ Data is visualized with charts, KPIs, and tables, supporting filters and drill-d
 ## Dashboard Visuals
 
 ### Home Page
-![Home Page](./images/home_page.png)  
+![Home Page](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/DashboardImg/Screenshot%202025-08-10%20105344.png)  
 *Description: Overview of sales growth, marketing metrics, inventory status, and feedback snippets. Shows quantity for 2025 at 3.82K with -2.30% growth, marketing clicks at 239.37K, and high available stock at 98.22%.*
 
 ### Sales Overview Page
-![Sales Overview Page](./images/sales_overview_page.png)  
+![Sales Overview Page](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/DashboardImg/Screenshot%202025-08-10%20105403.png)  
 *Description: Payment methods, customer segments, monthly trends, top areas, and products. Highlights Wallet as top payment (32.06K), Regular customers (31.33K), and areas like Ghaziabad leading in quantity.*
 
 ### Customer Page
-![Customer Page](./images/customer_page.png)  
+![Customer Page](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/DashboardImg/Screenshot%202025-08-10%20105420.png)  
 *Description: Top customers, customer counts by month, and slicers for order analysis. Top customer Ikshita Sarna with 73 quantity; shows customer growth variations and repeat sales at 58.40K.*
 
 ### Feedbacks Page
-![Feedbacks Page](./images/feedbacks_page.png)  
+![Feedbacks Page](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/DashboardImg/Screenshot%202025-08-10%20105439.png)  
 *Description: Rating distributions, feedback categories, segments, and detailed customer feedback table. Positive feedback at 70.38%, with App Experience and Customer Service each ~25%.*
 
 ### Inventory Page
-![Inventory Page](./images/inventory_page.png)  
+![Inventory Page](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/DashboardImg/Screenshot%202025-08-10%20105451.png)  
 *Description: Stock movement, damaged and available stock, daily trends. Available stock at 469.0K (71.53%), damaged at 109.5K (16.69%), with daily received stock around 65K-79K.*
 
 ### Marketing Page
-![Marketing Page](./images/marketing_page.png)  
+![Marketing Page](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/DashboardImg/Screenshot%202025-08-10%20105503.png)  
 *Description: Marketing value by month and keys, overall clicks, conversions, impressions, revenue, and spend. Clicks at 711.88K, revenue at 711.88K, with slight 0.62% growth in 2025 quantity.*
 
 ## Key Findings
