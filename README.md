@@ -1,6 +1,7 @@
 # Retail-Analytics-Dashboard
 
 This repository contains a Power BI dashboard project for Blinkit, a quick-commerce platform specializing in rapid delivery of groceries and essentials. The dashboard consolidates key performance indicators (KPIs) to monitor orders, inventory, delivery, customer feedback, and operational metrics. 
+[📄PDF](https://github.com/Gaurav-tech229/Retail-Analytics-Dashboard/blob/main/Project%20Statement%20and%20Component.pdf) 
 
 ## Problem Statement
 
